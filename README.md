@@ -1,0 +1,1 @@
+# squeeble.changelog-versioning
